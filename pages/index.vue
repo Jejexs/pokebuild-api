@@ -1,4 +1,5 @@
 <template>
+    <div class="h-24"></div>
     <div class="col-span-3">
         <SearchBar @select:pokemon="handleSelectPokemon" />
         <SearchType @update:type="handleTypeChange" />

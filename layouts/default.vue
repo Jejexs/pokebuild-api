@@ -1,5 +1,5 @@
 <template>
-
+    <HeaderLogo />
     <NuxtPage />
     <BottomMenu />
 </template>
